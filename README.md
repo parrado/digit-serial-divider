@@ -1,1 +1,1 @@
-# Source code digit-serial-divider description.
+# Source code of digit-serial-divider description.
